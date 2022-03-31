@@ -4,7 +4,7 @@
   "description": "School backend",
   "main": "app.js",
   "scripts": {
-    "start": "node ./bin/www.js",
+    "start": "node www.js",
     "dev": "nodemon ./bin/www",
     "cronjob": "node ./bin/cronjob.js",
     "test-dev": "jest",
